@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: it tooks long time to sort the large scale data, but sort very fast on sorted dataset
+
+sort2 uses: Merge Sort
+
+How do you know?: in general it is the fast among all methods
+
+sort3 uses: Selection Sort
+
+How do you know?: on the large data, there is no much time difference sorting different dataset

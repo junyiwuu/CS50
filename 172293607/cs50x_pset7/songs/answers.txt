@@ -1,0 +1,4 @@
+high danceability
+i will probably need more features to measure songs, and collect several most significant one
+
+I will also ask users to put labels on the songs, and then in the end calculate the labels, in order to know what kind of song the user like the most

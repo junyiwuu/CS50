@@ -1,0 +1,17 @@
+<html>
+    <head>
+        Event, handlers
+    </head>
+    <body>
+        <button onclick="alertName(event)">Button 1</button>
+        <button onclick="alertName(event)">Button 2</button>
+    </body>
+</html>
+
+<script>
+    function alertName(event)
+    {
+        var trigger = event.srcElement;
+        alert('you clicked on' + trigger.innerHTML);
+    }
+</script>
